@@ -1,11 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Fri 10 Apr 2015 08:26:28 AEST
-
-BeginCmp
-TimeStamp = /54896BB0;
-Reference = C1;
-ValeurCmp = 100nF;
-IdModule  = FT:0603_CAP;
-EndCmp
+Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Tue 05 May 2015 09:02:05 AEST
 
 BeginCmp
 TimeStamp = /5489117F;
@@ -134,17 +127,10 @@ IdModule  = FT:LED-0805;
 EndCmp
 
 BeginCmp
-TimeStamp = /54896AAF;
+TimeStamp = /5547FE2F;
 Reference = LED6;
-ValeurCmp = WS2812B;
-IdModule  = FT:WS2812B;
-EndCmp
-
-BeginCmp
-TimeStamp = /54896B60;
-Reference = LED7;
-ValeurCmp = WS2812B;
-IdModule  = FT:WS2812B;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
 EndCmp
 
 BeginCmp
@@ -187,6 +173,13 @@ TimeStamp = /54891843;
 Reference = R5;
 ValeurCmp = 22M;
 IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5547FE38;
+Reference = R6;
+ValeurCmp = 470R;
+IdModule  = FT:0603;
 EndCmp
 
 BeginCmp
