@@ -1,0 +1,241 @@
+Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Fri 10 Apr 2015 08:26:28 AEST
+
+BeginCmp
+TimeStamp = /54896BB0;
+Reference = C1;
+ValeurCmp = 100nF;
+IdModule  = FT:0603_CAP;
+EndCmp
+
+BeginCmp
+TimeStamp = /5489117F;
+Reference = JP1;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /548913A2;
+Reference = JP2;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /548913E6;
+Reference = JP3;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /54891419;
+Reference = JP4;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /548925EE;
+Reference = JP5;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /548925F4;
+Reference = JP6;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /548926F4;
+Reference = JP7;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /548926FA;
+Reference = JP8;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /54892390;
+Reference = JP9;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /54892396;
+Reference = JP10;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /5489239C;
+Reference = JP11;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /548923A2;
+Reference = JP12;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = /5489AAE5;
+Reference = JP13;
+ValeurCmp = JUMPER2;
+IdModule  = FT:1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = /5488F250;
+Reference = LED1;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5488F9F5;
+Reference = LED2;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5488FAA6;
+Reference = LED3;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5488FAB5;
+Reference = LED4;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /5488FBE1;
+Reference = LED5;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /54896AAF;
+Reference = LED6;
+ValeurCmp = WS2812B;
+IdModule  = FT:WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54896B60;
+Reference = LED7;
+ValeurCmp = WS2812B;
+IdModule  = FT:WS2812B;
+EndCmp
+
+BeginCmp
+TimeStamp = /54890428;
+Reference = PH1;
+ValeurCmp = 200K LDR;
+IdModule  = FT:1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = /54890450;
+Reference = R1;
+ValeurCmp = 10K;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /5489113D;
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54895F4D;
+Reference = R3;
+ValeurCmp = 470R;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /548A5541;
+Reference = R4;
+ValeurCmp = 470R;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = /54891843;
+Reference = R5;
+ValeurCmp = 22M;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = /5488EFEE;
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = FT:ARDUINO_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = /5489C800;
+Reference = SW1;
+ValeurCmp = SW_PUSHBUTTON;
+IdModule  = FT:SW_PUSHBUTTON_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /548910C3;
+Reference = SW2;
+ValeurCmp = SW_PUSHBUTTON;
+IdModule  = FT:SW_PUSHBUTTON_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = /548A69AB;
+Reference = TV1;
+ValeurCmp = ESD5V3U4RRS;
+IdModule  = FT:SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = /548A6A22;
+Reference = TV2;
+ValeurCmp = ESD5V3U4RRS;
+IdModule  = FT:SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = /5489A39C;
+Reference = U1;
+ValeurCmp = BUZZER;
+IdModule  = FT:BUZZER-12X12-SMT;
+EndCmp
+
+BeginCmp
+TimeStamp = /5489015A;
+Reference = VR1;
+ValeurCmp = 10K;
+IdModule  = FT:POT_RV09_VERT;
+EndCmp
+
+EndListe
