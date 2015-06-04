@@ -1,4 +1,4 @@
-Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Wed 20 May 2015 16:27:30 AEST
+Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Thu 04 Jun 2015 11:48:24 AEST
 
 BeginCmp
 TimeStamp = /5489117F;
@@ -134,6 +134,13 @@ IdModule  = FT:LED-0805;
 EndCmp
 
 BeginCmp
+TimeStamp = /556FBBBC;
+Reference = LED7;
+ValeurCmp = BLUE;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
 TimeStamp = /54890428;
 Reference = PH1;
 ValeurCmp = LDR GL5516;
@@ -162,23 +169,16 @@ IdModule  = FT:RES_CAY16;
 EndCmp
 
 BeginCmp
-TimeStamp = /548A5541;
+TimeStamp = /54896064;
 Reference = R4;
 ValeurCmp = 470R;
-IdModule  = FT:0603;
+IdModule  = FT:RES_CAY16;
 EndCmp
 
 BeginCmp
 TimeStamp = /555C3BC2;
 Reference = R5;
 ValeurCmp = 22M;
-IdModule  = FT:0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /5547FE38;
-Reference = R6;
-ValeurCmp = 470R;
 IdModule  = FT:0603;
 EndCmp
 
@@ -225,16 +225,16 @@ IdModule  = FT:SW_PUSHBUTTON_PTH;
 EndCmp
 
 BeginCmp
-TimeStamp = /555298D9;
+TimeStamp = /555C4E49;
 Reference = TV1;
-ValeurCmp = ESD5V0S5US;
+ValeurCmp = SMF05C;
 IdModule  = FT:SOT363;
 EndCmp
 
 BeginCmp
-TimeStamp = /55529968;
+TimeStamp = /555C4EB6;
 Reference = TV2;
-ValeurCmp = ESD5V0S5US;
+ValeurCmp = SMF05C;
 IdModule  = FT:SOT363;
 EndCmp
 
