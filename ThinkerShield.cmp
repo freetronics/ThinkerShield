@@ -1,255 +1,323 @@
-Cmp-Mod V01 Created by Cvpcb (2014-11-24 BZR 5301)-product   date = Thu 04 Jun 2015 11:48:24 AEST
+Cmp-Mod V01 Genere par PcbNew le Thu 04 Jun 2015 11:55:04 AEST
 
 BeginCmp
-TimeStamp = /5489117F;
-Reference = JP1;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /548913A2;
-Reference = JP2;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /548913E6;
-Reference = JP3;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /54891419;
-Reference = JP4;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /548925EE;
-Reference = JP5;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /548925F4;
-Reference = JP6;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /548926F4;
-Reference = JP7;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /548926FA;
-Reference = JP8;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /54892390;
-Reference = JP9;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /54892396;
-Reference = JP10;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /5489239C;
-Reference = JP11;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /548923A2;
-Reference = JP12;
-ValeurCmp = M01;
-IdModule  = FT:ALLIGATOR_CLIP_CONN;
-EndCmp
-
-BeginCmp
-TimeStamp = /5489AAE5;
-Reference = JP13;
-ValeurCmp = JUMPER2;
-IdModule  = FT:1X02;
-EndCmp
-
-BeginCmp
-TimeStamp = /5488F250;
-Reference = LED1;
-ValeurCmp = GREEN;
-IdModule  = FT:LED-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /5488F9F5;
-Reference = LED2;
-ValeurCmp = GREEN;
-IdModule  = FT:LED-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /5488FAA6;
-Reference = LED3;
-ValeurCmp = GREEN;
-IdModule  = FT:LED-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /5488FAB5;
-Reference = LED4;
-ValeurCmp = GREEN;
-IdModule  = FT:LED-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /5488FBE1;
-Reference = LED5;
-ValeurCmp = GREEN;
-IdModule  = FT:LED-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /5547FE2F;
-Reference = LED6;
-ValeurCmp = GREEN;
-IdModule  = FT:LED-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /556FBBBC;
-Reference = LED7;
-ValeurCmp = BLUE;
-IdModule  = FT:LED-0805;
-EndCmp
-
-BeginCmp
-TimeStamp = /54890428;
-Reference = PH1;
-ValeurCmp = LDR GL5516;
-IdModule  = FT:1X02;
-EndCmp
-
-BeginCmp
-TimeStamp = /54890450;
-Reference = R1;
-ValeurCmp = 1K;
-IdModule  = FT:0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /5489113D;
-Reference = R2;
-ValeurCmp = 10K;
-IdModule  = FT:0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /54895F4D;
-Reference = R3;
-ValeurCmp = 470R;
-IdModule  = FT:RES_CAY16;
-EndCmp
-
-BeginCmp
-TimeStamp = /54896064;
-Reference = R4;
-ValeurCmp = 470R;
-IdModule  = FT:RES_CAY16;
-EndCmp
-
-BeginCmp
-TimeStamp = /555C3BC2;
-Reference = R5;
-ValeurCmp = 22M;
-IdModule  = FT:0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /555C3CBC;
-Reference = R7;
-ValeurCmp = 22M;
-IdModule  = FT:0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /555C3D2E;
-Reference = R8;
-ValeurCmp = 22M;
-IdModule  = FT:0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /555C3DF8;
-Reference = R9;
-ValeurCmp = 22M;
-IdModule  = FT:0603;
-EndCmp
-
-BeginCmp
-TimeStamp = /5488EFEE;
-Reference = SHIELD1;
-ValeurCmp = ARDUINO_SHIELD;
-IdModule  = FT:ARDUINO_SHIELD;
-EndCmp
-
-BeginCmp
-TimeStamp = /5489C800;
-Reference = SW1;
-ValeurCmp = SW_PUSHBUTTON;
-IdModule  = FT:SW_PUSHBUTTON_PTH;
-EndCmp
-
-BeginCmp
-TimeStamp = /548910C3;
-Reference = SW2;
-ValeurCmp = SW_PUSHBUTTON;
-IdModule  = FT:SW_PUSHBUTTON_PTH;
-EndCmp
-
-BeginCmp
-TimeStamp = /555C4E49;
-Reference = TV1;
-ValeurCmp = SMF05C;
-IdModule  = FT:SOT363;
-EndCmp
-
-BeginCmp
-TimeStamp = /555C4EB6;
-Reference = TV2;
-ValeurCmp = SMF05C;
-IdModule  = FT:SOT363;
-EndCmp
-
-BeginCmp
-TimeStamp = /5489A39C;
+TimeStamp = 54894959
+Path = /5489A39C
 Reference = U1;
 ValeurCmp = BUZZER;
 IdModule  = FT:BUZZER-12X12-SMT;
 EndCmp
 
 BeginCmp
-TimeStamp = /5489015A;
+TimeStamp = 555DD5C2
+Path = /5489015A
 Reference = VR1;
 ValeurCmp = 10K;
-IdModule  = FT:POT_RV09_VERT;
+IdModule  = POT_RV09_VERT;
+EndCmp
+
+BeginCmp
+TimeStamp = 5489C9E7
+Path = /555C4EB6
+Reference = TV2;
+ValeurCmp = SMF05C;
+IdModule  = SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = 54894816
+Path = /5489AAE5
+Reference = JP13;
+ValeurCmp = JUMPER2;
+IdModule  = FT:1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 54894827
+Path = /5488F250
+Reference = LED1;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 54894838
+Path = /5488F9F5
+Reference = LED2;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 54894849
+Path = /5488FAA6
+Reference = LED3;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5489485A
+Path = /5488FAB5
+Reference = LED4;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 5489486B
+Path = /5488FBE1
+Reference = LED5;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 548948A7
+Path = /54890428
+Reference = PH1;
+ValeurCmp = LDR GL5516;
+IdModule  = FT:1X02;
+EndCmp
+
+BeginCmp
+TimeStamp = 548948AF
+Path = /54890450
+Reference = R1;
+ValeurCmp = 1K;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 548948B7
+Path = /5489113D
+Reference = R2;
+ValeurCmp = 10K;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 548948C8
+Path = /54895F4D
+Reference = R3;
+ValeurCmp = 470R;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = 54894BA8
+Path = /5488EFEE
+Reference = SHIELD1;
+ValeurCmp = ARDUINO_SHIELD;
+IdModule  = FT:ARDUINO_SHIELD;
+EndCmp
+
+BeginCmp
+TimeStamp = 55321BE2
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = TS:MAAS_logo_small_SolderMask;
+EndCmp
+
+BeginCmp
+TimeStamp = 55272F1D
+Path = 
+Reference = LOGO_FREETRONICS;
+ValeurCmp = val**;
+IdModule  = FT:LOGO_FREETRONICS_33mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55272D4A
+Path = /5489C800
+Reference = SW1;
+ValeurCmp = SW_PUSHBUTTON;
+IdModule  = FT:SW_PUSHBUTTON_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = 55272D4B
+Path = /548910C3
+Reference = SW2;
+ValeurCmp = SW_PUSHBUTTON;
+IdModule  = FT:SW_PUSHBUTTON_PTH;
+EndCmp
+
+BeginCmp
+TimeStamp = 5538D344
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = TS:MAAS_logo_large;
+EndCmp
+
+BeginCmp
+TimeStamp = 552CA17B
+Path = 
+Reference = LOGO_FREETRONICS;
+ValeurCmp = val**;
+IdModule  = FT:LOGO_FREETRONICS_14mm_SolderMask;
+EndCmp
+
+BeginCmp
+TimeStamp = 5548101F
+Path = /5547FE2F
+Reference = LED6;
+ValeurCmp = GREEN;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 555DD4B7
+Path = /555C3CBC
+Reference = R7;
+ValeurCmp = 22M;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 555DD4BF
+Path = /555C3D2E
+Reference = R8;
+ValeurCmp = 22M;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 555DD4C7
+Path = /555C3DF8
+Reference = R9;
+ValeurCmp = 22M;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 555DD5BB
+Path = /555C3BC2
+Reference = R5;
+ValeurCmp = 22M;
+IdModule  = FT:0603;
+EndCmp
+
+BeginCmp
+TimeStamp = 5489C9DA
+Path = /555C4E49
+Reference = TV1;
+ValeurCmp = SMF05C;
+IdModule  = FT:SOT363;
+EndCmp
+
+BeginCmp
+TimeStamp = 556FCD91
+Path = /556FBBBC
+Reference = LED7;
+ValeurCmp = BLUE;
+IdModule  = FT:LED-0805;
+EndCmp
+
+BeginCmp
+TimeStamp = 556FCF94
+Path = /54896064
+Reference = R4;
+ValeurCmp = 470R;
+IdModule  = FT:RES_CAY16;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947C0
+Path = /5489117F
+Reference = JP1;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947C6
+Path = /548913A2
+Reference = JP2;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947CC
+Path = /548913E6
+Reference = JP3;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947D2
+Path = /54891419
+Reference = JP4;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947D8
+Path = /548925EE
+Reference = JP5;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947DE
+Path = /548925F4
+Reference = JP6;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947E4
+Path = /548926F4
+Reference = JP7;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947EA
+Path = /548926FA
+Reference = JP8;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947F0
+Path = /54892390
+Reference = JP9;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947F6
+Path = /54892396
+Reference = JP10;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 548947FC
+Path = /5489239C
+Reference = JP11;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
+EndCmp
+
+BeginCmp
+TimeStamp = 54894802
+Path = /548923A2
+Reference = JP12;
+ValeurCmp = M01;
+IdModule  = FT:ALLIGATOR_CLIP_CONN;
 EndCmp
 
 EndListe
