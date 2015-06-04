@@ -171,7 +171,7 @@ F 1 "10K" H 1300 2500 50  0000 C CNN
 F 2 "FT:POT_RV09_VERT" H 1300 2500 60  0001 C CNN
 F 3 "" H 1300 2500 60  0000 C CNN
 	1    1300 2500
-	0    -1   1    0   
+	0    -1   -1   0   
 $EndComp
 $Comp
 L GND #PWR02
