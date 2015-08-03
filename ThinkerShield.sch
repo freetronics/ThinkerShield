@@ -36,13 +36,13 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title ""
+Title "ThinkerShield"
 Date ""
-Rev ""
+Rev "V1.1"
 Comp ""
-Comment1 ""
+Comment1 "TAPR Open Hardware License"
 Comment2 ""
-Comment3 ""
+Comment3 "Copyright (C) 2015 Freetronics Pty Ltd"
 Comment4 ""
 $EndDescr
 $Comp
@@ -184,7 +184,7 @@ F 3 "" H 1300 3500 60  0000 C CNN
 	1    1300 3500
 	1    0    0    -1  
 $EndComp
-Text Label 1750 2500 0    60   ~ 0
+Text Label 850  2500 0    60   ~ 0
 A5
 $Comp
 L RES_PHOTO_LDR PH1
@@ -230,7 +230,7 @@ F 3 "" H 2100 5800 60  0000 C CNN
 	1    2100 5800
 	1    0    0    -1  
 $EndComp
-Text Label 850  2500 0    60   ~ 0
+Text Label 1750 2500 0    60   ~ 0
 A4
 $Comp
 L SW_PUSHBUTTON SW2
